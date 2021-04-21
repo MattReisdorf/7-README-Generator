@@ -2069,10 +2069,6 @@ ${data.contributions}
 ${data.username}
 ${data.email}
 
-Made in collaboration with:
-Jeremy Joanet (https://github.com/Vygoth)
-Zach Duty (https://github.com/Zachduty)
-
 ## License
 
 ${data.license}
