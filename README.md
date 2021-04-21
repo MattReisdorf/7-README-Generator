@@ -24,8 +24,7 @@ npm test
 Some alterations to the README made need to be made, such as pathing for screenshots.
 
 ![screenshot](./assets/images/screenshot.png)
-![screenshot2](./assets/images/screenshot2.png)
-![working gif](./assets/images/working.gif)
+![working gif](./assets/images/recording.gif)
 All contributions need to be approved by yours truly.
 
 ## Credits
