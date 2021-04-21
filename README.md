@@ -23,7 +23,7 @@ npm test
 
 Some alterations to the README made need to be made, such as pathing for screenshots.
 
-![alt][/assets/images/screenshot.png]
+![alt][./assets/images/screenshot.png]
 
 All contributions need to be approved by yours truly.
 

@@ -2043,10 +2043,10 @@ function generateMarkdown(data) {
 
 ## Table of Contents
 
-- [Installation][#Installation]
-- [Usage][#Usage]
-- [Credits][#Credits]
-- [License][#License]
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Credits](#Credits)
+- [License](#License)
 
 ## Installation
 
@@ -2060,7 +2060,7 @@ ${data.testing}
 
 ${data.info}
 
-![alt][assets/images/screenshot.png]
+![alt][./assets/images/screenshot.png]
 
 ${data.contributions}
 
