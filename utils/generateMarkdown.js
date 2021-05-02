@@ -2060,7 +2060,7 @@ ${data.testing}
 
 ${data.info}
 
-![alt][./assets/images/screenshot.png]
+![alt](./assets/images/screenshot.png)
 
 ${data.contributions}
 
